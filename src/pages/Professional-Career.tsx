@@ -14,7 +14,7 @@ const ProfessionalCareer = () => {
       </a>
       <div className="PageBlock">
         <div className="StandardPhoto">
-          <Image src={SafranLogo} />
+          <Image src={SafranLogo} alt="Safran Logo" />
         </div>
         <h3>Safran Electronics and Defense - Business Process Analyst</h3>
         <p>
@@ -28,13 +28,13 @@ const ProfessionalCareer = () => {
           As a <b>Business Process Analyst</b> my main activities are related to
           the data management and analysis, development of BI Reports and
           Dashboards, automatization and improvement of current processes and
-          validation and approval of KPI's before officialization and release
-          for executive levels.
+          validation and approval of KPI&apos;s before officialization and
+          release for executive levels.
         </p>
       </div>
       <div>
         <div className="StandardPhoto">
-          <Image src={BBRRLogo} />
+          <Image src={BBRRLogo} alt="BBRR Solutions Logo" />
         </div>
         <h3>BBRR Solutions - CEO/Owner</h3>
         <p>
@@ -54,7 +54,7 @@ const ProfessionalCareer = () => {
       </div>
       <div className="PageBlock">
         <div className="StandardPhoto">
-          <Image src={SPGLogo} />
+          <Image src={SPGLogo} alt="SPG Logo" />
         </div>
         <h3>Spectrum Plastics Group - Business Systems Analyst</h3>
         <p>
@@ -84,7 +84,7 @@ const ProfessionalCareer = () => {
       </div>
       <div className="PageBlock">
         <div className="StandardPhoto">
-          <Image src={SPGLogo} />
+          <Image src={SPGLogo} alt="SPG Logo" />
         </div>
         <h3>Spectrum Plastics Group - Jr. Extrusion Engineer</h3>
         <p>
@@ -98,13 +98,13 @@ const ProfessionalCareer = () => {
           As an Business Process Analyst my main activities are related to the
           data management and analysis, development of BI Reports and
           Dashboards, automatization and improvement of current processes and
-          validation and approval of KPI's before officialization and release
-          for executive levels.
+          validation and approval of KPI&apos;s before officialization and
+          release for executive levels.
         </p>
       </div>
       <div className="PageBlock">
         <div className="StandardPhoto">
-          <Image src={SPGLogo} />
+          <Image src={SPGLogo} alt="SPG Logo" />
         </div>
         <h3>Spectrum Plastics Group - Engineering Intern</h3>
         <p>
@@ -118,8 +118,8 @@ const ProfessionalCareer = () => {
           As an Business Process Analyst my main activities are related to the
           data management and analysis, development of BI Reports and
           Dashboards, automatization and improvement of current processes and
-          validation and approval of KPI's before officialization and release
-          for executive levels.
+          validation and approval of KPI&apos;s before officialization and
+          release for executive levels.
         </p>
       </div>
     </div>
