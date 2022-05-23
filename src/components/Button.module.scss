@@ -1,0 +1,16 @@
+.Container {
+  margin: 0px 15px 0px 15px;
+  & > button {
+    background-color: lightgrey;
+    border-radius: 10px;
+    border-width: 1px;
+    font-size: 14px;
+    width: 150px;
+    min-height: 36px;
+    transition-duration: 0.3s;
+    &:hover {
+      background-color: lightgreen;
+      transform: translate(0px, -5px);
+    }
+  }
+}

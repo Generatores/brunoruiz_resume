@@ -1,0 +1,21 @@
+.Container {
+  margin: 0px 15px 0px 15px;
+}
+
+.Container > button {
+  background-color: lightgrey;
+  border-radius: 10px;
+  border-width: 1px;
+  font-size: 14px;
+  width: 150px;
+  min-height: 36px;
+  -webkit-transition-duration: 0.3s;
+          transition-duration: 0.3s;
+}
+
+.Container > button:hover {
+  background-color: lightgreen;
+  -webkit-transform: translate(0px, -5px);
+          transform: translate(0px, -5px);
+}
+/*# sourceMappingURL=Button.module.css.map */

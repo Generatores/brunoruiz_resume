@@ -1,0 +1,11 @@
+.Container {
+  width: 100%;
+  padding: 15px 0px 15px 0px;
+}
+
+.Container > p {
+  text-align: center;
+  font-size: 12px;
+  font-weight: bold;
+}
+/*# sourceMappingURL=Footer.module.css.map */
