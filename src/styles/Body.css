@@ -1,35 +1,27 @@
 .Body {
   min-height: 75vw;
   margin: 25px auto 25px auto;
-  width: 85%;
-}
+  width: 85%; }
 
 .MainPhoto {
   width: 25%;
   min-width: 300px;
-  margin: auto;
-}
+  margin: auto; }
 
 .StandardPhoto {
-  width: 250px;
-}
+  width: 250px; }
 
 h2 {
   margin: 15px 0px 15px 0px;
-  font-size: 36px;
-}
+  font-size: 36px; }
 
 h3 {
   margin: 5px 0px 5px 0px;
-  font-size: 24px;
-}
+  font-size: 24px; }
 
 p {
   margin: 5px 0px 5px 0px;
-  font-size: 18px;
-}
+  font-size: 18px; }
 
 .PageBlock {
-  margin: 50px 0px 50px 0px;
-}
-/*# sourceMappingURL=Body.css.map */
+  margin: 50px 0px 50px 0px; }
