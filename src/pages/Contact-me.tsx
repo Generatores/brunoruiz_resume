@@ -5,7 +5,7 @@ const ContactMe = () => {
       <p>You can contact me at:</p>
       <h3>Email</h3>
       <p>
-        <a href="mailto:bruno.ruiz@bbrr.solutions">bruno.ruiz@bbrr.solutions</a>
+        <a href="mailto:bruno.ruiz@brunoruiz.dev">bruno.ruiz@brunoruiz.dev</a>
       </p>
       <h3>Phone</h3>
       <p>+52 (686) 337-1694</p>

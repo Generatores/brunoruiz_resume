@@ -69,17 +69,36 @@ const ProfessionalCareer = () => {
           management and troubleshooting of all softwares used by the Mexicali
           Site.
         </p>
+        <p>
+          During my time as a Business Systems Analyst I was in charge of the
+          On-Site tracking and implementation of the IQMS/DELMIAWorks ERP
+          System, taking the lead on on the transition from the old
+          software/files, data migration and business process definition.
+        </p>
+        <p>
+          From the ERP Implementation, I gather the business needs from each
+          department and based on the functional specs provided I plan the
+          safest way to implement each system module and new procedure.
+        </p>
+        <p>
+          In addition, as part of the knowledge of the ERP features and
+          workflows I took part on the evaluation of massive updates with a main
+          focus on financial or operational impact outside the IT scope. Such as
+          projections on inventory devaluation, supply chain and financial
+          projections.
+        </p>
         <b>Milestones</b>
         <ul>
           <li>
             Implementation and On-Site management of IQMS/DELMIAWorks ERP
             System.
           </li>
-          <li>
-            Implementation and On-Site management of IQMS/DELMIAWorks ERP
-            System.
-          </li>
           <li>On-Site IT Department establishment</li>
+          <li>Integration of ERP System with Tax Software.</li>
+          <li>
+            Implementation of SPC software and Real Time Laser Measuring
+            Equipment (Zumbach).
+          </li>
         </ul>
       </div>
       <div className="PageBlock">
@@ -95,11 +114,11 @@ const ProfessionalCareer = () => {
         </p>
         <b>Main Activities</b>
         <p>
-          As an Business Process Analyst my main activities are related to the
-          data management and analysis, development of BI Reports and
-          Dashboards, automatization and improvement of current processes and
-          validation and approval of KPI&apos;s before officialization and
-          release for executive levels.
+          As a Jr. Extrusion Engineer my main activities were related to the
+          analysis and definition of process parameters for the Extrusion
+          Process. Design of staging procedures and packing instructions,
+          validation of new products, materials and process parameters took
+          place on my day-to-day activities.
         </p>
       </div>
       <div className="PageBlock">
@@ -115,11 +134,9 @@ const ProfessionalCareer = () => {
         </p>
         <b>Main Activities</b>
         <p>
-          As an Business Process Analyst my main activities are related to the
-          data management and analysis, development of BI Reports and
-          Dashboards, automatization and improvement of current processes and
-          validation and approval of KPI&apos;s before officialization and
-          release for executive levels.
+          As an Engineering Inter my main activities were the correction of
+          Setup Sheets based on the feedback of process owners and data
+          recovered from historical data.
         </p>
       </div>
     </div>

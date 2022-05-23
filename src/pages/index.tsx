@@ -11,7 +11,9 @@ const Home: NextPage = () => {
         <Image src={BrunoPhoto} alt="Bruno Ruiz Photo" />
       </div>
       <h3>Who am I?</h3>
-      <p>My name is Bruno Ruiz, Mechanical Engineer with an EMBA</p>
+      <p>
+        My name is Bruno Ruiz, Mechanical Engineer with an EMBA in progress.
+      </p>
     </div>
   );
 };

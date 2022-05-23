@@ -11,6 +11,7 @@ export const Nav = () => {
         ButtonPath="/Professional-Career"
         ButtonText="Professional Career"
       />
+      <NavButton ButtonPath="/Projects" ButtonText="Projects" />
       <NavButton ButtonPath="/Contact-me" ButtonText="Contact me" />
     </div>
   );
